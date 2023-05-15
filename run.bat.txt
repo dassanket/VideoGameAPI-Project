@@ -1,0 +1,1 @@
+cd E:\MySeleniumworkspace\VideoGameProject\testng.xml\mvn tree install

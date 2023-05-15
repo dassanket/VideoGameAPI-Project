@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5099" started-at="2023-05-15T18:39:32Z" finished-at="2023-05-15T18:39:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5099" started-at="2023-05-15T18:39:32Z" finished-at="2023-05-15T18:39:37Z">
+      <class name="testases.VideoGameApiTestCases">
+        <test-method status="PASS" signature="test_getAllVideoGames()[pri:1, instance:testases.VideoGameApiTestCases@4678c730]" name="test_getAllVideoGames" duration-ms="2327" started-at="2023-05-16T00:09:32Z" finished-at="2023-05-16T00:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method status="PASS" signature="test_addNewVideoGames()[pri:2, instance:testases.VideoGameApiTestCases@4678c730]" name="test_addNewVideoGames" duration-ms="736" started-at="2023-05-16T00:09:34Z" finished-at="2023-05-16T00:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addNewVideoGames -->
+        <test-method status="PASS" signature="test_getVideoGame()[pri:3, instance:testases.VideoGameApiTestCases@4678c730]" name="test_getVideoGame" duration-ms="1618" started-at="2023-05-16T00:09:35Z" finished-at="2023-05-16T00:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideoGame -->
+        <test-method status="PASS" signature="test_updateVideoGame()[pri:4, instance:testases.VideoGameApiTestCases@4678c730]" name="test_updateVideoGame" duration-ms="99" started-at="2023-05-16T00:09:37Z" finished-at="2023-05-16T00:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVideoGame -->
+        <test-method status="PASS" signature="test_deleteVideoGame()[pri:5, instance:testases.VideoGameApiTestCases@4678c730]" name="test_deleteVideoGame" duration-ms="286" started-at="2023-05-16T00:09:37Z" finished-at="2023-05-16T00:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideoGame -->
+      </class> <!-- testases.VideoGameApiTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
